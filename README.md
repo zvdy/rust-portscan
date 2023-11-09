@@ -49,5 +49,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [⬜] Add support for IPv6
 - [⬜] Add support for UDP
 - [⬜] Add flags for different scan types
-- [⬜] Add support for scanning a range of ports
+- [✅] Add support for scanning a range of ports
 - [⬜] Add support for scanning a range of IPs
